@@ -1,0 +1,5 @@
+#!/bin/bash
+
+nome='Rafael'
+valor='999K'
+echo "Parabéns, $nome você ganhou , $valor reais"
